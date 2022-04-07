@@ -1,0 +1,6 @@
+idade = int(input('Digite sua idade:'))
+altura = float(input('Digite sua altura:'))
+print('Qual a sua idade?')
+print(idade)
+print('Qual a sua altura?')
+print(altura)               
